@@ -1,7 +1,7 @@
 # HBLT
 Hallway-based light tomography
 
-Python packages related to building a HBLT scanner.
+Python packages related to building an HBLT scanner.
 
 HBLT is also related to the following project:
 https://github.com/mrbreaker86/KBLT
