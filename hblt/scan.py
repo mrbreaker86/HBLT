@@ -42,9 +42,9 @@ def Initiate_new_scan(manual_sample_name):
                 global sample_folder
 
                 #for Windows
-		        #path_out = 'C:/Users/emanuel/HBLT_scans/'
+		#path_out = 'C:/Users/emanuel/HBLT_scans/'
 
-		        #for Mac
+		#for Mac
                 path_out = '/Users/emanuel/Documents/Python/HBLT_scans/'
 
                 sample_folder = path_out + sample_folder_date + '/' + manual_sample_name + '/' 
