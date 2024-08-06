@@ -10,5 +10,5 @@ with the difference that HBLT uses a manually operated rotation stage, while KBL
 
 # License
 The project is licensed under the BSD-3 license:
-URL: https://github.com/mrbreaker86/HBLT/blob/master/LICENSE.txt
+URL: https://github.com/mrbreaker86/hblt/blob/main/LICENSE
 
